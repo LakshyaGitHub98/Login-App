@@ -1,1 +1,1 @@
-# Login-App
+# A Login Application Made using C++ (Using QT Framework).
